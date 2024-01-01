@@ -6,8 +6,6 @@ Currently, i'm working as a bug hunter on [Immunefi](https://immunefi.com/) plat
 
 if you want to know more about me you can follow my account on [X](https://twitter.com/0xkazimm).
 
-the orginal template is created by @berndartmuelle
-
 ## Expertise
 
 | Expertise    | Proficiency |
@@ -42,6 +40,8 @@ the orginal template is created by @berndartmuelle
 
 ## Public Audit Contests
 
+this table contains only High and medium bugs reports only
+
 | Contest              | Date         | H/M finding     | Report                                                   | Platform  |
 | -------------------- | ------------ | --------------- | -------------------------------------------------------- | --------- |
 | Asymmetry contest    | Mar 24, 2023 | 1 medium        | [link](https://code4rena.com/reports/2023-03-asymmetry)  | codeArena |
@@ -52,7 +52,7 @@ the orginal template is created by @berndartmuelle
 | moonbeam             | Jul 24, 2023 | 2 medium        | [Link](https://code4rena.com/reports/2023-07-moonwell)   | codeArena |
 | Dopex                | Aug 21, 2023 | 2 High          | [Link](https://code4rena.com/reports/2023-08-dopex)      | codeArena |
 | Centrifuge           | Sep 8, 2023  | 1 medium        | [Link](https://code4rena.com/reports/2023-09-centrifuge) | codeArena |
-| The Wildcat Protocol | Oct 16, 2023 | 1 High          | [Link](ttps://code4rena.com/reports/2023-10-wildcat)     | codeArena |
+| The Wildcat Protocol | Oct 16, 2023 | 1 High          | [Link](https://code4rena.com/reports/2023-10-wildcat)     | codeArena |
 
 ## private audit
 
