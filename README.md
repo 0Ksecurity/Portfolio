@@ -4,7 +4,7 @@ This is my public profile of my adventure as a blockchain and smart contract sec
 
 Currently, i'm working as a bug hunter on [Immunefi](https://immunefi.com/) platform and participating in contest on [codeArena](https://code4rena.com/) and [sherlock](https://www.sherlock.xyz/) and [codeHawks](https://www.codehawks.com/) too. soon i will start doing private audits with different mechanism and tools to secure your protocol as much as we can.
 
-if you want to know more about me you can follow my account on [X](https://twitter.com/0xkazimm).
+if you want to know more about me you can follow my account on [X](https://twitter.com/0K_Security).
 
 ## Expertise
 
