@@ -1,22 +1,25 @@
-## Audit portfolio 
-This repository highlights 0kSecurity, also known as zeroK, showcasing his expertise and achievements over two years in the Web3 security field.
+## Audit portfolio
+
+This repository highlights 0kSecurity, also known as zeroK, showcasing my expertise and achievements over 1 year as bug hunter in the Web3 security field.
 
 - [About zeroK](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#about-zerok)
 - [Expertise](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#expertise)
-- [Public Audit Contests on c4](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#public-audit-contests-on-c4)
+- [top 5 reports](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#my-top-5-reports)
+- [Attackathon](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#my-top-5-reports)
+- [Invite-only-program](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#invite-onlyiop-program-on-immunefi)
+- [contests](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#contestboost-on-immunefi)
 - [Bug bounties](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#bug-bounties)
-- [private audit](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#bug-bounties)
+- [private audit](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#contestboost-on-immunefi)
 
 ## About zeroK
-zeroK is a professional security researcher with two years of experience in the Web3 security field. Specializing in Solidity, Sway, EVM blockchains, and DeFi protocols, zeroK also brings expertise in the Fuel blockchain ecosystem. Starting as a warden on CodeArena zeroK transitioned to bug hunting on Immunefi, achieved Elite Rank in just 8 months and earned over $100k. You can explore zeroK’s Immunefi portfolio [here](https://immunefi.com/profile/zeroK/?scope=year), zeroK has been actively involved in contests on Code4rena, Immunefi, and public bug bounty programs (Ape Protocol, pSTAKE, YieldNest, and others) and found over 40 validated reports, and participated in the Fuel Attackathon, mastering the Fuel ecosystem within just 15 days.
 
-For private audit requests, please feel free to reach out via:
+I'm security researcher with two years of experience in the Web3 security field. Specializing in Solidity, Sway, EVMs, and DeFi protocols, I also brings expertise in the Fuel blockchain ecosystem(fuelVM). Starting as a warden on CodeArena then i transitioned to bug hunting on Immunefi, achieved **Elite Rank** (ranked 40th for 2024) in just 8 months from zero programming background. You can explore my Immunefi portfolio [here](https://immunefi.com/profile/zeroK/?scope=year), I've been actively involved in contests and bug bounties on Immunefi, and found over 20 valid reports, and participated in the Fuel Attackathon, mastering the Fuel ecosystem within just 15 days.
 
-- Telegram @zero0K , 
-- X account [@0K_Security](https://x.com/0K_Security) 
+Lately, I have started providing private security reviews in the Web3 space. If you’re interested in getting a quick and professional private quote, feel free to reach out via:
+
+- Telegram @zero0K.
+- X account [@0K_Security](https://x.com/0K_Security)
 - Discord @0k_sec.
-
-
 
 # Expertise
 
@@ -24,59 +27,55 @@ For private audit requests, please feel free to reach out via:
 | ------------ | ----------- |
 | **Solidity** | ⚡⚡⚡⚡⚡  |
 | **EVM**      | ⚡⚡⚡⚡⚡  |
-| **sway**     | ⚡⚡⚡⚡⚡        |
-| **fuel ecosystem**       | ⚡⚡⚡⚡⚡        |
-| **Rust for blockchain**       | soon        |
+| **sway**     | ⚡⚡⚡⚡⚡  |
+| **fuel VM**  | ⚡⚡⚡⚡⚡  |
+| **DEFI**     | ⚡⚡⚡⚡⚡  |
 
+## my top 5 reports
 
-## Expertise in defi fields
+This list includes the top reports from my participation in contests and attackathons. Please note that the details for BBP reports are not shared publicly yet, as permission required for the BBP reports. This list is subject to change as I discover new creative and worthy bugs.
 
-| Expertise          | Proficiency |
-| ------------------ | ----------- |
-| **AMM**            | ⚡⚡⚡⚡    |
-| **NFTs**           | ⚡⚡⚡⚡⚡  |
-| **lending/borrow** | ⚡⚡⚡⚡⚡  |
-| **L2 chains**      | ⚡⚡⚡⚡      |
-| **cross chain**    | ⚡⚡⚡      |
-| **options & perp**     | ⚡⚡⚡      |
+| Contest/BBP/Attackathon | Status | Work Duration | Severity | State        | Report                                                                                  | Platform                          |
+| ----------------------- | ------ | ------------- | -------- | ------------ | --------------------------------------------------------------------------------------- | --------------------------------- |
+| Fuel Attackathon        | PAID   | 17-20 days    | HIGH     | Chief Finder | [Link](https://github.com/0Ksecurity/top_reports/blob/main/Fuel_blockchain_report_1.md) | [Immunefi](https://immunefi.com/) |
+| Fuel Attackathon        | PAID   | 17-20 days    | HIGH     | Chief Finder | [Link](https://github.com/0Ksecurity/top_reports/blob/main/Fuel_blockchain_report_2.md) | [Immunefi](https://immunefi.com/) |
+| ThunderNFT              | PAID   | 17 days       | HIGH     | Chief Finder | [Link](https://github.com/0Ksecurity/top_reports/blob/main/thunderNFT_report1.md)       | [Immunefi](https://immunefi.com/) |
+| ThunderNFT              | PAID   | 17 days       | Medium   | Chief Finder | [Link](https://github.com/0Ksecurity/top_reports/blob/main/thunderNFT_report2.md)       | [Immunefi](https://immunefi.com/) |
+| ALCHEMIX veALCX         | PAID   | 7-10 days     | Medium   | Chief Finder | [Link](https://github.com/0Ksecurity/top_reports/blob/main/Alchemix_report_1.md)        | [Immunefi](https://immunefi.com/) |
 
+## Attackathon on Immunefi
 
-## familiar chains
+| attackathon      | Status | Rank | Work Duration | vulnerability discovered | Report                                                                              | Platform                          |
+| ---------------- | ------ | ---- | ------------- | ------------------------ | ----------------------------------------------------------------------------------- | --------------------------------- |
+| fuel attackathon | PAIDs  | 5th  | 17-20 days    | 3 high, 5 low/insights   | [Link](https://github.com/0Ksecurity/report/tree/main/attackathon/Fuel_attackathon) | [Immunefi](https://immunefi.com/) |
 
-| Expertise     | Proficiency |
-| ------------- | ----------- |
-| **Ethereum**  | ⚡⚡⚡⚡⚡  |
-| **Optimism**  | ⚡⚡⚡⚡    |
-| **Arbitrum**  | ⚡⚡⚡⚡    |
-| **BNB chain** | ⚡⚡⚡⚡⚡  |
-| **moonbeam**  | ⚡⚡⚡⚡⚡  |
-| **other EVMs**  | ⚡⚡⚡⚡  |
-| **fuel**    | ⚡⚡⚡⚡⚡        |
+## Invite only program (IOP) on Immunefi
 
-## Public Audit Contests on c4
+| IOP        | Status | Rank | Work Duration | vulnerability discovered         | Report                                                                | Platform                          |
+| ---------- | ------ | ---- | ------------- | -------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
+| ThunderNFT | PAIDs  | 2th  | 17 days       | 3 high, 2 medium, 3 low/insights | [Link](https://github.com/0Ksecurity/report/tree/main/IOP/ThunderNFT) | [Immunefi](https://immunefi.com/) |
 
-This table includes only high and medium severity bug reports submitted during my participation in C4 contests in 2023 (formerly known as 0xkazim on the C4 platform)
+## contest/boost on Immunefi
 
-| Contest              | Date         | H/M finding     | Report                                                   | Platform  |
-| -------------------- | ------------ | --------------- | -------------------------------------------------------- | --------- |
-| Asymmetry contest    | Mar 24, 2023 | 1 medium        | [link](https://code4rena.com/reports/2023-03-asymmetry)  | codeArena |
-| Rubicon v2           | Apr 5 2023   | 2 medium        | not public yet                                           | codeArena |
-| Venus Protocol       | May 8, 2023  | 2 High 1 medium | [Link](https://code4rena.com/reports/2023-05-venus)      | codeArena |
-| Lybra Finance        | Jun 23, 2023 | 2 medium        | [Link](https://app.sherlock.xyz/audits/contests/99)      | codeArena |
-| Axelar Network       | Jul 12, 2023 | 1 medium        | [Link](https://code4rena.com/reports/2023-07-axelar)     | codeArena |
-| moonbeam             | Jul 24, 2023 | 2 medium        | [Link](https://code4rena.com/reports/2023-07-moonwell)   | codeArena |
-| Dopex                | Aug 21, 2023 | 2 High          | [Link](https://code4rena.com/reports/2023-08-dopex)      | codeArena |
-| Centrifuge           | Sep 8, 2023  | 1 medium        | [Link](https://code4rena.com/reports/2023-09-centrifuge) | codeArena |
-| The Wildcat Protocol | Oct 16, 2023 | 1 High          | [Link](https://code4rena.com/reports/2023-10-wildcat)     | codeArena |
+| Contest/boost   | Status | Rank | Work Duration | vulnerability discovered   | Report                                                                          | Platform                          |
+| --------------- | ------ | ---- | ------------- | -------------------------- | ------------------------------------------------------------------------------- | --------------------------------- |
+| ALCHEMIX veALCX | PAIDs  | 15th | 7-10 days     | 2 critical, 1 medium, 1low | [Link](https://github.com/0Ksecurity/report/tree/main/contests/Alchemix_veALCX) | [Immunefi](https://immunefi.com/) |
 
 ## Bug bounties
 
-All bug bounty reports will be made available soon, including reports from Immunefi Boosts that zeroK has participated in.
+| Contest                | status                               | work Duration | Severity | Report                 | Platform                          |
+| ---------------------- | ------------------------------------ | ------------- | -------- | ---------------------- | --------------------------------- |
+| APE coin               | PAID                                 | 12 days       | Medium   | soon               | [Immunefi](https://immunefi.com/) |
+| waiting for permission | NOT PAID (non-mentioned known issue) | 6 days        | Critical | waiting for permission | [Immunefi](https://immunefi.com/) |
+| waiting for permission | PAID                                 | 6 days        | Low      | waiting for approval   | [Immunefi](https://immunefi.com/) |
+| waiting for permission | PAID                                 | 15 days       | Medium   | waiting for approval   | [Immunefi](https://immunefi.com/) |
+| waiting for permission | PAID                                 | 4 days        | Low      | waiting for approval   | [Immunefi](https://immunefi.com/) |
 
 ## private audit
 
-coming Soon...
+I started performing private audits in January 2025 and have since completed two audits with the [Shieldify](https://www.shieldify.org/) team. During these engagements, I worked diligently to identify and address potential vulnerabilities, ensuring the clients codebases were as secure and reliable as possible.
 
-
-
-
+| Private Audit            | Required Duration | Client Platform/Website                     | Vulnerability Discovered | Report |
+| ------------------------ | ----------------- | ------------------------------------------- | ------------------------ | ------ |
+| guanciale veGuan         | 2 days            | [link](https://terminal.guanciale.ai/stake) | soon                     | soon   |
+| guanciale wheel contract | 3 days            | [link](https://terminal.guanciale.ai/stake) | soon                     | soon   |
