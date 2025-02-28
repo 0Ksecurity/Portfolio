@@ -13,9 +13,7 @@ This repository highlights 0kSecurity, also known as zeroK, showcasing my expert
 
 ## About zeroK
 
-I'm security researcher with two years of experience in the Web3 security field. Specializing in Solidity, Sway, EVMs, and DeFi protocols, I also brings expertise in the Fuel blockchain ecosystem(fuelVM). Starting as a warden on CodeArena then i transitioned to bug hunting on Immunefi, achieved **Elite Rank** (ranked 40th for 2024) in just 8 months from zero programming background. You can explore my Immunefi portfolio [here](https://immunefi.com/profile/zeroK/?scope=year), I've been actively involved in contests and bug bounties on Immunefi, and found over 20 valid reports, and participated in the Fuel Attackathon, mastering the Fuel ecosystem within just 15 days.
-
-Lately, I have started providing private security reviews in the Web3 space. If you’re interested in getting a quick and professional private quote, feel free to reach out via:
+I'm security researcher with two years of experience in the Web3 security field. Specializing in Solidity, Sway, EVMs, fuelVM ,and DeFi protocols. Starting as a warden on CodeArena then i transitioned to bug hunting on Immunefi, achieved **Elite Rank** in just 8 months from zero programming background. You can explore my Immunefi portfolio [here](https://immunefi.com/profile/zeroK/?scope=year), I've been actively involved in contests and bug bounties on Immunefi, and found over 20 valid reports Lately, I have started providing private security reviews in the Web3 space. If you’re interested in getting a quick and professional private quote, feel free to reach out via:
 
 - Telegram @zero0K.
 - X account [@0K_Security](https://x.com/0K_Security)
