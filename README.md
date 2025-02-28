@@ -2,7 +2,7 @@
 
 This repository highlights 0kSecurity, also known as zeroK, showcasing my expertise and achievements over 1 year as bug hunter in the Web3 security field.
 
-- [About zeroK](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#about-zerok)
+- [About zeroK](https://github.com/0Ksecurity/Portfolio?tab=readme-ov-file#about-zerok)
 - [Expertise](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#expertise)
 - [top 5 reports](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#my-top-5-reports)
 - [Attackathon](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#my-top-5-reports)
