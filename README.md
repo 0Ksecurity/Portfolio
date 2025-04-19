@@ -75,5 +75,5 @@ I started performing private audits in January 2025 and have since completed two
 
 | Private Audit            | Required Duration | Client Platform/Website                     | Vulnerability Discovered | Report |
 | ------------------------ | ----------------- | ------------------------------------------- | ------------------------ | ------ |
-| guanciale veGuan         | 2 days            | [link](https://terminal.guanciale.ai/stake) | soon                     | soon   |
-| guanciale wheel contract | 3 days            | [link](https://terminal.guanciale.ai/stake) | soon                     | soon   |
+| guanciale veGuan         | 5 days            | [link](https://terminal.guanciale.ai/stake) |     12  Vulnerability       | [link](https://github.com/0Ksecurity/private/blob/main/guancialeAI_DAO_solo.pdf)   |
+
