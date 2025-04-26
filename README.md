@@ -71,7 +71,7 @@ This list includes the top reports from my participation in contests and attacka
 
 ## private audit
 
-I started performing private audits in January 2025 and have since completed two audits with the [Shieldify](https://www.shieldify.org/) team. During these engagements, I worked diligently to identify and address potential vulnerabilities, ensuring the clients codebases were as secure and reliable as possible.
+I started performing private audits in January 2025 and have since completed one audits, I worked diligently to identify and address potential vulnerabilities, ensuring the clients codebases were as secure and reliable as possible. you can explore all  of my private audits below.
 
 | Private Audit            | Required Duration | Client Platform/Website                     | Vulnerability Discovered | Report |
 | ------------------------ | ----------------- | ------------------------------------------- | ------------------------ | ------ |
