@@ -27,7 +27,7 @@ I'm security researcher with two years of experience in the Web3 security field.
 | **EVM**      | ⚡⚡⚡⚡⚡  |
 | **sway**     | ⚡⚡⚡⚡⚡  |
 | **fuel VM**  | ⚡⚡⚡⚡⚡  |
-| **DEFI**     | ⚡⚡⚡⚡⚡  |
+| **DEFI(perp, lend-borrow, AMM, LST, LRT, stablecoin, etc...)**     | ⚡⚡⚡⚡⚡  |
 
 ## my top 5 reports
 
