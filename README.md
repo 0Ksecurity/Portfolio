@@ -1,6 +1,6 @@
 ## Audit portfolio
 
-This repository highlights 0kSecurity, also known as zeroK, showcasing my expertise and achievements over 1 year as bug hunter in the Web3 security field.
+This repository highlights zeroK, showcasing my expertise and achievements as bug hunter and security researcher in the Web3 security field.
 
 - [About zeroK](https://github.com/0Ksecurity/Portfolio?tab=readme-ov-file#about-zerok)
 - [Expertise](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#expertise)
@@ -13,11 +13,11 @@ This repository highlights 0kSecurity, also known as zeroK, showcasing my expert
 
 ## About zeroK
 
-I'm security researcher with two years of experience in the Web3 security field. Specializing in Solidity, Sway, EVMs, fuelVM ,and DeFi protocols. Starting as a warden on CodeArena then i transitioned to bug hunting on Immunefi, achieved **Elite Rank** in just 8 months from zero programming background. You can explore my Immunefi portfolio [here](https://immunefi.com/profile/zeroK/?scope=year), I've been actively involved in contests and bug bounties on Immunefi, and found over 20 valid reports Lately, I have started providing private security reviews in the Web3 space. If you’re interested in getting a quick and professional private quote, feel free to reach out via:
+I'm security researcher with two years of experience in the Web3 security field. Specializing in Solidity, Sway, EVMs, fuelVM ,and DeFi protocols. Starting as a warden on CodeArena then i transitioned to bug hunting on Immunefi, achieved **Elite Rank** in just 8 months from zero programming background. You can explore my Immunefi portfolio [here](https://immunefi.com/profile/zeroK/?scope=year), I've been actively involved in contests and bug bounties on Immunefi, and found over 30 valid reports Lately, I have started providing private security reviews in the Web3 space. If you’re interested in getting a quick and professional private quote, feel free to reach out via:
 
 - Telegram @zero0K.
-- X account [@0K_Security](https://x.com/0K_Security)
-- Discord @0k_sec.
+- X account [@ZeroK_____](https://x.com/0K_Security)
+- Discord @zerok___.
 
 # Expertise
 
@@ -48,10 +48,11 @@ This list includes the top reports from my participation in contests and attacka
 | fuel attackathon | PAIDs  | 5th  | 17-20 days    | 3 high, 5 low/insights   | [Link](https://github.com/0Ksecurity/report/tree/main/attackathon/Fuel_attackathon) | [Immunefi](https://immunefi.com/) |
 
 ## Invite only program (IOP) on Immunefi
+| IOP                | Status | Rank | Work Duration | vulnerability discovered                     | Report                                                                | Platform                          |
+| ------------------ | ------ | ---- | ------------- | -------------------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
+| ThunderNFT         | PAIDs  | 2th  | 17 days       | 3 high, 2 medium, 3 low/insights             | [Link](https://github.com/0Ksecurity/report/tree/main/IOP/ThunderNFT) | [Immunefi](https://immunefi.com/) |
+| Term Structure Lab | PAIDs  | 1th  | 9 days        | 2 critical, 2 high, 1 medium, 1 low/insights | [soon]()                                                              | [Immunefi](https://immunefi.com/) |
 
-| IOP        | Status | Rank | Work Duration | vulnerability discovered         | Report                                                                | Platform                          |
-| ---------- | ------ | ---- | ------------- | -------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
-| ThunderNFT | PAIDs  | 2th  | 17 days       | 3 high, 2 medium, 3 low/insights | [Link](https://github.com/0Ksecurity/report/tree/main/IOP/ThunderNFT) | [Immunefi](https://immunefi.com/) |
 
 ## contest/boost on Immunefi
 
