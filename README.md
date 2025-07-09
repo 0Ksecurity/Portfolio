@@ -51,7 +51,7 @@ This list includes the top reports from my participation in contests and attacka
 | IOP                | Status | Rank | Work Duration | vulnerability discovered                     | Report                                                                | Platform                          |
 | ------------------ | ------ | ---- | ------------- | -------------------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
 | ThunderNFT         | PAIDs  | 2th  | 17 days       | 3 high, 2 medium, 3 low/insights             | [Link](https://github.com/0Ksecurity/report/tree/main/IOP/ThunderNFT) | [Immunefi](https://immunefi.com/) |
-| Term Structure Lab | PAIDs  | 1th  | 9 days        | 2 critical, 2 high, 1 medium, 1 low/insights | [soon]()                                                              | [Immunefi](https://immunefi.com/) |
+| Term Structure Lab | PAIDs  | 1th  | 9 days        | 2 critical, 2 high, 1 medium, 2 low/insights | [Link](https://github.com/0Ksecurity/report/blob/main/IOP/TSI/term_structure_lab_IOP.pdf)                                                              | [Immunefi](https://immunefi.com/) |
 
 
 ## contest/boost on Immunefi
