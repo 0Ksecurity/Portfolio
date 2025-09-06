@@ -5,7 +5,7 @@ This repository highlights zeroK, showcasing my expertise and achievements as bu
 - [About zeroK](https://github.com/0Ksecurity/Portfolio?tab=readme-ov-file#about-zerok)
 - [Expertise](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#expertise)
 - [top 5 reports](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#my-top-5-reports)
-- [Attackathon](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#my-top-5-reports)
+- [Attackathon](https://github.com/0Ksecurity/Portfolio/tree/main?tab=readme-ov-file#attackathon-on-immunefi)
 - [Invite-only-program](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#invite-onlyiop-program-on-immunefi)
 - [contests](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#contestboost-on-immunefi)
 - [Bug bounties](https://github.com/0Ksecurity/Portfolio/edit/main/README.md#bug-bounties)
